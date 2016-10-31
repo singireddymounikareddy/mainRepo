@@ -1,3 +1,6 @@
 in git
 b1...line1
-4thline local...
+
+4thline local..
+3rd line added...
+
