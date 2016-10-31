@@ -1,6 +1,6 @@
 in git
 b1...line1
+3rd line added in branch1...
 
-4thline local..
-3rd line added...
+
 
